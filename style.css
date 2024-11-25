@@ -1,0 +1,28 @@
+h1
+{
+	color:blue  ;
+}
+.PigierBénin
+{
+display: flex;
+flex-direction:column ;
+}
+.header
+{
+display: flex;
+flex-direction:column;
+}
+.IfeOluwa
+{
+margin-left: auto;
+}
+body {
+	font-family: 'Arial', sans-serif;
+	background: linear-gradient(to right, #e0f7fa, #80deea); /* Dégradé de fond */
+	color: #333;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	height: 100;
+}
+
